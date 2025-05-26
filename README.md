@@ -17,19 +17,16 @@ Are there untapped rider groups (e.g. students, retirees)?
 
 How can data drive decisions to optimize fleet and pricing?
 
-## 💡 Strategic Insights & Recommendations
+### Strategic Insights & Recommendations
 
-Insight                                                   	             Recommendation                                                                 Business Value 
+| Insight                                | Recommendation                                                    | Business Value                              |
+|----------------------------------------|-------------------------------------------------------------------|---------------------------------------------|
+| 8.5% MoM Drop in ridership             | Investigate causes and seasonality, redesign marketing efforts    | Prevent long-term ridership loss            |
+| 49% of buses underutilized             | Reallocate underused buses dynamically                            | Increase fleet efficiency                    |
+| Retired & student groups underrepresented | Offer off-peak discounts for seniors and students                 | Increase utilization during quiet periods    |
+| Midweek ridership decline              | Partner with flexible employers to shift workdays                 | Flatten demand curve                         |
+| Peak Hours at 8:57 PM                  | Adjust service frequency dynamically after dark                   | Match supply to real-time demand             |
 
-🚨 83.5% MoM Drop in ridership	                             Investigate causes and seasonality, redesign marketing efforts	                   Prevent long-term ridership loss  
- 
-🚌 49% of buses underutilized                                Reallocate underused buses dynamically	                                           Increase fleet efficiency
-
-👥 Retired & student groups underrepresented	               Offer off-peak discounts for seniors and students	                               Increase utilization during quiet periods
-
-📅 Midweek ridership decline	                               Partner with flexible employers to shift workdays	                               Flatten demand curve
-
-🕓 Peak Hours at 8:57 PM	                                   Adjust service frequency dynamically after dark	                                 Match supply to real-time demand
 
 
 
